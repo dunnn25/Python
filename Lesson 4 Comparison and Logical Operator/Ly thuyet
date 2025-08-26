@@ -1,0 +1,14 @@
+Tổng quan
+6 phép toán so sánh
+(1) Equal (Kiểm tra 2 giá trị có bằng nhau hay không) " == "
+(2) ilEqual (Kiểm tra 2 giá trị có khấc nhau hay không) " != "
+(3) Greater than " x > y "
+(4) Less than " x < y "
+(5) Greater than or Equal to " x >= y "
+(6) Less than or Equal to " x <= y "
+==> kết quả trả về: True or False
+
+Phép toán logic
+(1) and: Trả về giá trị True khi cả 2 giá trị đều là True
+(2) or   Trả về giá trị True khi 1 trong 2 giá trị là True và False nếu ngược lại
+(3) not  Trả về giá trị False nếu cả 2 giá trị ban đầu là True và ngược lại   VD: "not(x<5 and x<20)"
