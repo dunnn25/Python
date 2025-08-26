@@ -1,1 +1,8 @@
-
+Operator    |     Name     |     Example
+    +            Addition          x+y
+    -            Subtraction       x-y
+    *          Mutiplication       x*y
+    /             Division         x/y
+    %             Modulus          x%y
+    **         Exponentiation      x ** y
+    //         Floor division      x // y
