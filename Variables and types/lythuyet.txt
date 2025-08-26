@@ -1,0 +1,6 @@
+Variables: Biến
+Biến được sử dụng để lưu data trong chương trình
+Tên biến có thể chứa các kí tự trừ các kí tự đặc biệt
+Tên biến không được trùng với các keywords
+Bắt đầu của tên biến không được là số
+Để kiểm tra kiểu dữ liệu của biến ta dùng hàm: type() -int,float,...
