@@ -1,0 +1,3 @@
+List là 1 trong 4 kiểu dữ liệu ở trong python dược xây dựng sẵn sử dụng dụng để lưu nhiều dữ liệu 
+Để tạo list có thể sử dụng "[]"
+Không giống như string là kiểu immutable thì list là 1 kiểu mutable có thể thay thế sửa các phần tử trong list
