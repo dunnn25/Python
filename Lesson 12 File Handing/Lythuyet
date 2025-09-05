@@ -1,0 +1,11 @@
+Tổng quát
+- Function open(), 2 parameter: filename, and mode
+- 4 modes of opening filename
++ "r" - Read - Default value, mang giá trị mặc định, nếu file chưa tồn tại chương trình sẽ báo lỗi
++ "a" - Append, Tạo 1 phai mới nếu file chưa tồn tại, nếu file đã tồn tại thì ghi tiếp nội dung mới vào sau các file cũ
++ "w" - Write,  Tạo 1 phai mới nếu file chưa tồn tại, nếu file đã tồn tại thì xoá nội dung file cũ và ghi đè nội dung file mới lên
++ "x" - Create, Nếu file đã tồn tại thì sẽ báo lỗi
+
+- File nên xử lí dưới hai dạng binary(nhị phân), text
++ "t" - text- Giá trị mặc định
++ "b" - binary
