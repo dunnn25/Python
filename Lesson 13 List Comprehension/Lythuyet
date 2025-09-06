@@ -1,0 +1,4 @@
+List comprehension cung cấp cho chúng ta cú pháp ngắn hơn để tạo list mới dựa trên các giá trị của list đã có 
+
+Cú pháp
+[expression for item in iterable]
