@@ -1,0 +1,5 @@
+Để resize ảnh mà vẫn giữ được tỷ lệ
+
+H0/W0  =  H1/W1
+=> H1 = (H0*W1)/H0 (khi W1 đã biết)
+=> W1 = (W0*H1)/H0 (khi H1 đã biết)
