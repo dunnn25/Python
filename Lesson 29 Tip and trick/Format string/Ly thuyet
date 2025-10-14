@@ -1,0 +1,8 @@
+FORMAT string
+Hữu ích khi cần in ra 1 chuỗi hoặc muốn truyền 1 chuỗi vào hàm hoặc phương thức nào đó:
+
+- Một số các thực hiện format string
+  + String modulo opetator %
+  + .format()
+  + f string
+  + Template strings
