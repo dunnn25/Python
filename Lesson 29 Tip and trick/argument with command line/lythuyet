@@ -1,0 +1,11 @@
+Một số cách truyền arguments thông qua command line:
+ + Dùng module sys - sys.argv
+ + Dùng module getopt
+ + Dùng module argparse
+
+ Kết luận: Ta nên truyền arguments thông qua command line giúp: 
+ + Linh hoạt hơn khi muốn thay đổi giá trị mà không cần sửa code
+ + Dễ thích hợp tích hợp vào script, hệ thống lớn
+ + Code tổng quát, dễ bảo trì
+ + Dễ chia sẻ code cho người khác
+ 
