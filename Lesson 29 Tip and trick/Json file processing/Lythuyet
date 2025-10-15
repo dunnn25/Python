@@ -1,0 +1,15 @@
+JSON in python
+
+JSON(JavaScript Object Notation) là một định dạng dùng để lưu và định dạng các loại dữ liệu
+
+JSON giống với dict trong python
+
+Module JSON
+
+Data types JSON supposrt are:
++ string
++ Number
++ Boolean
++ Null
++ Object
++ Array
