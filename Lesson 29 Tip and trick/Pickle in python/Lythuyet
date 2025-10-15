@@ -1,0 +1,12 @@
+Pickle in Python
+
+Python Pickle dùng để lưu trữ và truyền tải data
+Module Pickle
+
+Pros(ưu điểm):
+Pickle có thể serialize bất kì loại python objects nào
+
+Cons(Nhược điểm):
++ Không an toàn với các file trên mạng
++ Pickle Protocol chỉ support cho python
++ Không đảm bảo việc tương thích giữa các versions khác nhau trong python
