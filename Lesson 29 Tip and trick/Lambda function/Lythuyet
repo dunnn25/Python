@@ -1,0 +1,15 @@
+Lambda function - Hàm ẩn danh
+
+Lambda function là gì?
+- Là hàm ẩn danh không có tên
+- Hàm thông thường được định nghĩa với keyword def, hàm ẩn danh được định nghĩa với keyword Lambda
+
+Cú pháp của lambda function
+
+"lambda arguments: expression"
+- Số lượng arguments tuỳ ý
+- Chỉ có duy nhất 1 expression
+
+Best practice:
+ - Chỉ nên dùng cho các phép toán đơn giản
+ - Hay sử dụng trong hàm bậc cao như map(), filter()
